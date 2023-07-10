@@ -1,2 +1,2 @@
-# htmp-pjc
+# html-pjc
 Web Dev Project 
